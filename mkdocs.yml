@@ -1,0 +1,24 @@
+site_name: CiviCRM Documentation
+
+nav:
+  - Home:
+    - Welcome: home.md
+  - User Guide:
+    - Welcome: user.md
+  - Sysadmin Guide:
+    - Welcome: sysadmin.md
+  - Developer Guide:
+    - Welcome: dev.md
+  - Extensions:
+    - Welcome: ext.md
+  - About:
+    - Welcome: guides/documentation-guide/index.md
+    - Diátaxis: guides/documentation-guide/diataxis.md
+    - Style Guide: guides/documentation-guide/style.md
+
+theme:
+  name: material
+  features:
+    - navigation.tabs # This enables the top-level tabs
+    # - navigation.instant # Optional: For instant page loading
+    # - navigation.sections # Optional: If you want sections to collapse/expand
