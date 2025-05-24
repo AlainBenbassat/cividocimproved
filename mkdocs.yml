@@ -3,12 +3,16 @@ site_name: CiviCRM Documentation
 nav:
   - Home:
     - Welcome: index.md
+    - français: fr.md
+    - Español: es.md
   - User Guide:
-    - Introduction: guides/user-guide/index.md
-    - Contacts:
-      - Topic 1: guides/user-guide/contacts/topic1.md
-      - Topic 2: guides/user-guide/contacts/topic2.md
-      - Topic 3: guides/user-guide/contacts/topic3.md
+    - What is CiviCRM?: guides/user-guide/index.md
+    - Organizing your data:
+      - Topic 1: guides/user-guide/organizing-your-data/topic1.md
+      - Topic 2: guides/user-guide/organizing-your-data/topic2.md
+      - Topic 3: guides/user-guide/organizing-your-data/topic3.md
+    - Searching and reporting: guides/user-guide/searching-and-reporting/index.md
+    - Communication and messaging: guides/user-guide/communication-and-messaging/index.md
     - Events:
         - Introduction: guides/user-guide/events/index.md
         - Planning:
@@ -18,12 +22,15 @@ nav:
           - Fees: guides/user-guide/events/fees.md
           - Reminders: guides/user-guide/events/reminders.md
         - Reporting: guides/user-guide/events/reporting.md
+    - Membership: guides/user-guide/membership/index.md
     - Contributions:
         - Topic 1: guides/user-guide/contributions/topic1.md
         - Topic 2: guides/user-guide/contributions/topic2.md
         - Topic 3: guides/user-guide/contributions/topic3.md
-  - Sysadmin Guide:
-    - Introduction: guides/sysadmin-guide/index.md
+    - Case Management: guides/user-guide/case-management/index.md
+    - Advanced Topics: guides/user-guide/advanced-topics/index.md
+  - Administator Guide:
+    - Introduction: guides/admin-guide/index.md
   - Developer Guide:
     - Introduction: guides/developer-guide/index.md
   - Extensions:
