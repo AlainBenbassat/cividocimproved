@@ -1,4 +1,3 @@
-# About
+# About the CiviCRM Documentation
 
-about page
 

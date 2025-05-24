@@ -2,11 +2,11 @@
 
 ## What do you want to do?
 
-🚀 Want to learn more about specific features of CiviCRM? Want to learn more about CiviCRM in general? [Read the User Guide](#)
+🚀 Want to learn more about specific features of CiviCRM? Want to learn more about CiviCRM in general? [Read the User Guide](guides/user-guide/index.md)
 
-🛠️ Want to install or update CiviCRM? Want to configure mail or cron? [Read the Sysadmin Guide](#)
+🛠️ Want to install or update CiviCRM? Want to configure mail or cron? [Read the Sysadmin Guide](guides/sysadmin-guide/index.md)
 
-👾 Are you a developer? [Read the Developer Guide](#)
+👾 Are you a developer? [Read the Developer Guide](guides/developer-guide/index.md)
 
 ## Need More Help?
 

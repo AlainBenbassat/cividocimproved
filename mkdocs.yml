@@ -2,18 +2,34 @@ site_name: CiviCRM Documentation
 
 nav:
   - Home:
-    - Welcome: home.md
+    - Welcome: index.md
   - User Guide:
-    - Welcome: user.md
+    - Introduction: guides/user-guide/index.md
+    - Contacts:
+      - Topic 1: guides/user-guide/contacts/topic1.md
+      - Topic 2: guides/user-guide/contacts/topic2.md
+      - Topic 3: guides/user-guide/contacts/topic3.md
+    - Events:
+        - Introduction: guides/user-guide/events/index.md
+        - Planning:
+          - Create an event: guides/user-guide/events/create.md
+          - Settings: guides/user-guide/events/settings.md
+          - Location: guides/user-guide/events/location.md
+          - Fees: guides/user-guide/events/fees.md
+          - Reminders: guides/user-guide/events/reminders.md
+        - Reporting: guides/user-guide/events/reporting.md
+    - Contributions:
+        - Topic 1: guides/user-guide/contributions/topic1.md
+        - Topic 2: guides/user-guide/contributions/topic2.md
+        - Topic 3: guides/user-guide/contributions/topic3.md
   - Sysadmin Guide:
-    - Welcome: sysadmin.md
+    - Introduction: guides/sysadmin-guide/index.md
   - Developer Guide:
-    - Welcome: dev.md
+    - Introduction: guides/developer-guide/index.md
   - Extensions:
-    - Welcome: ext.md
+    - Introduction: guides/extensions/index.md
   - About:
-    - Welcome: guides/documentation-guide/index.md
-    - Diátaxis: guides/documentation-guide/diataxis.md
+    - Introduction: guides/documentation-guide/index.md
     - Style Guide: guides/documentation-guide/style.md
 
 theme:
