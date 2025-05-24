@@ -45,3 +45,7 @@ theme:
     - navigation.tabs # This enables the top-level tabs
     # - navigation.instant # Optional: For instant page loading
     # - navigation.sections # Optional: If you want sections to collapse/expand
+
+plugins:
+  - search
+  - tags

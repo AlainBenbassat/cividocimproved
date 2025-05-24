@@ -8,6 +8,10 @@
 
 👾 Are you a developer? [Read the Developer Guide](guides/developer-guide/index.md)
 
+## Browse by type
+
+You can [browser the documentation by type](tags.md).
+
 ## Need More Help?
 
 Visit our forum on [StackExchange](https://civicrm.stackexchange.com)
