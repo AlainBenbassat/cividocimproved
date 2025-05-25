@@ -16,10 +16,10 @@ nav:
     - Events:
         - Introduction: guides/user-guide/events/index.md
         - Planning:
-          - Create an event: guides/user-guide/events/create.md
+          - Creating an event: guides/user-guide/events/create.md
           - Settings: guides/user-guide/events/settings.md
           - Location: guides/user-guide/events/location.md
-          - Fees: guides/user-guide/events/fees.md
+          - Setting Up Fees and Online Registration: guides/user-guide/events/fees.md
           - Reminders: guides/user-guide/events/reminders.md
         - Reporting: guides/user-guide/events/reporting.md
     - Membership: guides/user-guide/membership/index.md
@@ -37,6 +37,7 @@ nav:
     - Introduction: guides/extensions/index.md
   - About:
     - Introduction: guides/documentation-guide/index.md
+    - Get Involved: guides/documentation-guide/get-involved.md
     - Style Guide: guides/documentation-guide/style.md
 
 theme:
@@ -49,3 +50,4 @@ theme:
 plugins:
   - search
   - tags
+  - categories

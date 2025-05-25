@@ -1,3 +1,3 @@
-# Browse the documentation by type
+# Browse the documentation by experience level
 
 <!-- material/tags -->

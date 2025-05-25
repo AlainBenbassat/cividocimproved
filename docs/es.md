@@ -1,7 +1,9 @@
 ---
 title: Exporting Data
-tags:
+categories:
     - Tutorials
+tags:
+    - beginner
 ---
 
 # Español

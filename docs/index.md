@@ -2,15 +2,26 @@
 
 ## What do you want to do?
 
-🚀 Want to learn more about specific features of CiviCRM? Want to learn more about CiviCRM in general? [Read the User Guide](guides/user-guide/index.md)
+| Want to learn more about specific features of CiviCRM? Want to learn more about CiviCRM in general? |
+|-----------------------------------------------------------------------------------------------------|
+| 🚀 [Read the User Guide](guides/user-guide/index.md)                                                |
 
-🛠️ Want to install or update CiviCRM? Want to configure mail or cron? [Read the Sysadmin Guide](guides/admin-guide/index.md)
+| Want to install or update CiviCRM? Want to configure mail or cron? |
+| ------------ |
+| 🛠️ [Read the Administrator Guide](guides/admin-guide/index.md) |
 
-👾 Are you a developer? [Read the Developer Guide](guides/developer-guide/index.md)
+| Are you a developer? |
+| ----------- |
+| 👾 [Read the Developer Guide](guides/developer-guide/index.md) |
 
-## Browse by type
+## Browse by experience level or category
 
-You can [browser the documentation by type](tags.md).
+You can browse the [documentation by experience level](tags.md) or by category:
+
+* [Tutorials](categories/tutorials.md)
+* [How-to Guides](categories/how-to-guides.md)
+* [Explanation](categories/explanation.md)
+* [Reference](categories/reference.md)
 
 ## Need More Help?
 
@@ -24,4 +35,4 @@ If you found an error in the documentation [let us know](#)! Or even better: [ge
 
 ## Want to Contribute to the Documention?
 
-Keeping the documentation up-to-date is very important
+[Help us](guides/documentation-guide/get-involved.md) keeping the documentation up-to-date.

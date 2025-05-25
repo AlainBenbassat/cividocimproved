@@ -1,7 +1,9 @@
 ---
 title: Extensions
+categories:
+    - Explanation
 tags:
-    - Explanations
+    - advanced
 ---
 
 # Extensions
